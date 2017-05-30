@@ -1,0 +1,15 @@
+{
+    "name": "northcreek/bullhorn",
+    "description": "Bullhorn Rest API Package",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6.4",
+        "lusitanian/oauth": "^0.8.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "NorthCreek\\Bullhorn\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
